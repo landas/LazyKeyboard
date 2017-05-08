@@ -1,6 +1,6 @@
 # Lazy Keyboard - Two button keyboard
 
-This project was release on stupidhackath.no hosted by Bakken & Bæck, on 06.05.2017.
+This project was released on stupidhackath.no hosted by Bakken & Bæck, on 06.05.2017.
 
 
 ![Product image](/lazykeyboard.png "Lazy keyboard")
