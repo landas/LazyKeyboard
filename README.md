@@ -31,7 +31,7 @@ This project was released on stupidhackath.no hosted by Bakken & Bæck, on 06.05
 
 ## Usage
 
-`~/LazyKeayboard $ ./jkeyboard.py`  *(remember chmod 755)*
+`~/LazyKeyboard $ ./jkeyboard.py`  *(remember chmod 755)*
 
 **Button A:** Change letter  
 **Button B:** Next letter / space  
